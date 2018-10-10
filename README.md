@@ -1,6 +1,7 @@
 # Amazon AWS
 
-Table of contents
+## Table of contents
+
 1. [Description](#description)
 2. [Setup](#setup)
    * [Install the module](#installing-the-module)
